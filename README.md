@@ -3,7 +3,7 @@ Markdown
 
 A sleek, responsive, and interactive web application that fetches random pieces of advice from an external API with smooth animations. Built using modern HTML5, CSS3 (Flexbox & Grid), and asynchronous JavaScript.
 
-![Advice Generator Demo](https://echo-sudo-1.github.io/Advice-Generator-App/index.html) *(Optional: Replace with your actual project screenshot or GIF)*
+![Advice Generator Demo]: https://echo-sudo-1.github.io/Advice-Generator-App/index.html *(Optional: Replace with your actual project screenshot or GIF)*
 
 ---
 
