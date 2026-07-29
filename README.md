@@ -54,7 +54,7 @@ Plaintext
 
 👤 Author
 
-GitHub: @echO-sudo-1
+GitHub: https://github.com/echO-sudo-1
 
 Email: echosudo11@gmail.com
 
